@@ -1,0 +1,17 @@
+asyncserial==0.1
+databases==0.3.2
+importlib-metadata==1.7.0
+importlib-resources==3.0.0
+Jinja2==2.11.2
+-e git+https://github.com/pyenv/pyenv.git@ec9fb5492b08cfb5d80de3cb85cc50b091587234#egg=lambdasoc
+MarkupSafe==1.1.1
+minerva==0.1
+nmigen==0.2
+nmigen-boards==0.1.dev154+g92e63dc
+nmigen-soc==0.1.dev43+gecfad4d
+nmigen-stdio==0.1.dev9+g01eb8fd
+pyserial==3.4
+pyvcd==0.1.7
+six==1.15.0
+SQLAlchemy==1.3.19
+zipp==3.1.0
