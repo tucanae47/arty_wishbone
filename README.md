@@ -4,7 +4,7 @@ Nmigen wishbone with arty a7
 
 # Uart serial bridge
 
-Taken from [gram project](https://github.com/jeanthom/gram/blob/master/examples/uartbridge.py)
+`uartbride.py` was taken from [gram project](https://github.com/jeanthom/gram/blob/master/examples/uartbridge.py)
 
 
 # usage
